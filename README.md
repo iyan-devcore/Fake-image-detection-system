@@ -1,4 +1,4 @@
-Fake Image Detection System
+*Fake Image Detection System*
 
 A deep learning–based system for detecting real vs AI-generated (fake) images using transfer learning with ResNet18.
 Built with a focus on robust preprocessing, generalization, and reproducible ML workflows.
